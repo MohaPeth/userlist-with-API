@@ -1,0 +1,32 @@
+/* Styles pour la carte utilisateur */
+.user-card {
+    background-color: #474350;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4); /* Ajustement de la distance de flou */
+    padding: 20px;
+    padding-top: 20px;
+    margin-bottom: 16px;
+    width: 1000px;
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+  
+  
+  /* Styles pour les titres */
+  .user-card h2 {
+    margin-top: 0;
+    color: #F8FFF4;
+  }
+  
+  /* Styles pour les paragraphes */
+  .user-card p {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  /* Styles pour les éléments en gras dans les paragraphes */
+  .user-card p strong {
+    font-weight: bold;
+    color: #FAFAC6;
+  }
+  
